@@ -1,7 +1,7 @@
 ---
-title: About Aidan Charles Powell
+title: About Juan Pablo Zambrano
 layout: about.njk
-name: Aidan Charles Powell
+name: Juan Pablo Zambrano
 image: '/images/me.jpeg'
 ---
 

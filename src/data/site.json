@@ -1,19 +1,14 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Juan Pablo Zambrano",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
+    "name": "Juan Pablo Zambrano",
     "email": "author@site.com",
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
-    {
-      "text": "Blog",
-      "url": "/blog",
-      "external": false
-    },
     {
       "text": "About",
       "url": "/about",
