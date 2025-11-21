@@ -2,13 +2,7 @@
 title: About Juan Pablo Zambrano
 layout: about.njk
 name: Juan Pablo Zambrano
-image: '/images/me.jpeg'
+image: '/images/me.JXL'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
-
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
-
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+Juan Pablo got into software development because of his love of photography. Since then, he has been able to learn how to improve his own photography but specially other's too his own tools like 2499.

@@ -1,14 +1,18 @@
 {
   "name": "Juan Pablo Zambrano",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "description": "The personal website of Juan Pablo Zambrano",
+  "url": "https://www.jpzambrano.co",
   "author": {
     "name": "Juan Pablo Zambrano",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "email": "juan@latentco.us"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/me.JXL",
   "headerLinks": [
+    {
+      "text": "2499",
+      "url": "/2499",
+      "external": false
+    },
     {
       "text": "About",
       "url": "/about",
@@ -18,17 +22,17 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://www.instagram.com/juanpzambran1/",
+      "external": true
+    },
+    {
+      "text": "Mastodon",
+      "url": "https://mastodon.art/@Jpzambrano",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://github.com/JuanPabloZambrano",
       "external": true
     }
   ],

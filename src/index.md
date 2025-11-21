@@ -3,6 +3,5 @@ layout: home
 title: 'jpzambrano'
 ---
 
-# Hello World
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Hola , I'm a sowftware developer born in Venezuela, specialized in imaging systems for video and photography. My main goal is to help and enhance the creative intent of other creatives.
